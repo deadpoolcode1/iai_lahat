@@ -1,0 +1,23 @@
+# Build artefacts
+build/
+*.o
+*.elf
+*.bin
+*.srec
+*.map
+*.lst
+*.hex
+*.dep
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Local Claude Code state
+.claude/
+.claude-cache/
+.claude.local.json
+CLAUDE.local.md
